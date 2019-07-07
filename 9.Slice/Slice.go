@@ -4,7 +4,7 @@
 package main
 
 import "fmt"
-
+// 切片的基本概念
 func main() {
 
     // Unlike arrays, slices are typed only by the
